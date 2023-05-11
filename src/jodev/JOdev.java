@@ -16,7 +16,7 @@ public class JOdev {
         IsverenKayit isverenEkle = new IsverenKayit();
         HizmetverenKayit hizmetverenEkle = new HizmetverenKayit();
         isverenEkle.kayit();
-       // hizmetverenEkle.kayit();
+       hizmetverenEkle.kayit();
         
         
     }
